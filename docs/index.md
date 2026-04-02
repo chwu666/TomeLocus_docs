@@ -1,19 +1,7 @@
-# Welcome to MkDocs
+# TomeLocus 文档
 
-TomeLocus_docs
+TomeLocus 是一个轻量级的家庭图书管理系统。它通过为每本书和每个书架隔层粘贴唯一条形码，并利用手机拍照自动识别的方式，记录每本书的最新位置，彻底解决“书放哪儿了”的难题。
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本文档将指导您从零开始，在家庭部署并使用 TomeLocus。
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[**让我们开始吧！**](user-guide/getting-started.md)
