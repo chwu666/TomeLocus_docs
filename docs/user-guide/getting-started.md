@@ -82,10 +82,10 @@ if __name__ == "__main__":
 ```
 
 ## 添加书架、隔层、图书
-![主页](img/index页截图.png)
+![主页](https://gitee.com/chwu666/tome-locus_docs/raw/main/docs/user-guide/img/index%E9%A1%B5%E6%88%AA%E5%9B%BE.png)
 
 访问主页后，点击“管理数据”按钮，进入数据管理页面。
-![数据管理页面](img/数据管理页面截图.png)
+![数据管理页面](https://gitee.com/chwu666/tome-locus_docs/raw/main/docs/user-guide/img/%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
 
 点击上方导航栏切换书架、隔层、图书管理页面。
 
@@ -95,10 +95,10 @@ if __name__ == "__main__":
 
 添加好后，选中所有新增的图书、隔层条目，分别点击“获取标签”按钮，下载标签图片。如果您有标签打印机，选择下载压缩包可以获得所有标签图片。若没有，可以使用模切不干胶标签纸，利用普通激光打印机打印，推荐购买 A4 尺寸，4 * 9 每张 36 个标签。根据您购买的标签纸，回到主页，点击”自定义”按钮，输入尺寸后点击保存，回到数据管理页面，选择 PDF 文档模式，即可自动下载排版好的标签。然后将打印机的纸张类型设置为标签，放入标签纸打印。
 
-![自定义](img/自定义截图.png)
+![自定义](https://gitee.com/chwu666/tome-locus_docs/raw/main/docs/user-guide/img/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%88%AA%E5%9B%BE.png)
 
 随后按下图所示粘贴标签。
-![粘贴标签](img/粘贴标签示意图.jpg)
+![粘贴标签](https://gitee.com/chwu666/tome-locus_docs/raw/main/docs/user-guide/img/%E7%B2%98%E8%B4%B4%E6%A0%87%E7%AD%BE%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
 
 将隔层标签粘贴到隔层侧壁上，图书标签粘贴到书脊上，条码应方向一致，高度一致，黑白条纹平行于水平面。
 
@@ -106,10 +106,10 @@ if __name__ == "__main__":
 当图书位置变动时，TomeLocus 提供了拍照识别功能，来更新数据。您需要定期盘点，保证数据有效。
 
 盘点时，使用手机对每个隔层拍照。为提高精准度，建议切换画幅为全屏，打开闪光灯，稳定手持，点击屏幕对焦后在按下快门。若书架过宽，可以在左右两侧贴上各层标签，盘点时分别拍照，系统会自动去重。参考以下示例：
-![盘点示例](img/盘点示例.jpg)
+![盘点示例](https://gitee.com/chwu666/tome-locus_docs/raw/main/docs/user-guide/img/%E7%9B%98%E7%82%B9%E7%A4%BA%E4%BE%8B.jpg)
 
 拍照完成后统一上传。在主页点击：”盘点图书“按钮，点击上传图片，一次盘点中拍摄的图片一次性上传。系统会自动识别并写入数据库。
 
 若发现上次盘点出现的图书本次盘点没有出现，系统将提示“可能已经下架”。
 
-![可能已经下架](img/可能已经下架截图.png)
+![可能已经下架](https://gitee.com/chwu666/tome-locus_docs/raw/main/docs/user-guide/img/%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E4%B8%8B%E6%9E%B6%E6%88%AA%E5%9B%BE.png)
